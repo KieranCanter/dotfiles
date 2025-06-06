@@ -1,0 +1,6 @@
+[submodule "ghostty"]
+	path = ghostty
+	url = https://github.com/KieranCanter/ghostty
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/KieranCanter/nvim
