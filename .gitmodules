@@ -1,6 +1,9 @@
 [submodule "ghostty"]
-	path = ghostty
-	url = https://github.com/KieranCanter/ghostty
+    path = ghostty
+    url = https://github.com/KieranCanter/ghostty
 [submodule "nvim"]
-	path = nvim
-	url = https://github.com/KieranCanter/nvim
+    path = nvim
+    url = https://github.com/KieranCanter/nvim
+[submodule "fastfetch"]
+    path = fastfetch
+    url = https://github.com/KieranCanter/fastfetch
