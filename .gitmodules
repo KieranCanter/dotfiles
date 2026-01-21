@@ -7,3 +7,6 @@
 [submodule "fastfetch"]
     path = fastfetch
     url = https://github.com/KieranCanter/fastfetch
+[submodule "nushell"]
+	path = nushell
+	url = https://github.com/KieranCanter/nushell
